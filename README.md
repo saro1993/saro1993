@@ -42,7 +42,7 @@ I'm a **final-year Information Technology and Programming student** with a passi
 ![Saro's GitHub stats](https://github-readme-stats.vercel.app/api?username=saro&show_icons=true&theme=radical)
 
 📫 **Reach me at:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/saro-ismailzada-a38620346)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saro-ismailzada-a38620346/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sarosamall1993@gmail.com)
 
 ---
