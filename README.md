@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Saro! 
 
-I'm a **final-year Information Technology and Programming student** with a passion for **full-stack development** and **cloud computing**. I have hands-on experience working with AWS/gcloud services, including Lambda, to build scalable and efficient serverless applications.
+I'm a **final-year Information Technology and Programming student** focused on **AI**, **ML**, and cloud-native app development. Building smart solutions with PyTorch, AWS, Google cloud, and a love for scalable systems.
 
 ## 🚀 What I Do
 - 🌐 **Building dynamic web applications** with modern frameworks.
