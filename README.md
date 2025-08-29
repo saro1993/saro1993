@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Saro! 
 
-I'm a **final-year Information Technology and Programming student** focused on **AI**, **ML**, and cloud-native app development. Building smart solutions with PyTorch, AWS, Google cloud, and a love for scalable systems.
+I’m an Information Technology and Programming graduate specializing in # AI, machine learning, and cloud-native app development. I enjoy building scalable, intelligent solutions with tools like PyTorch, AWS, and Google Cloud, always driven by curiosity and a passion for impactful technology.
 
 ## 🚀 What I Do
 - 🌐 **Building dynamic web applications** with modern frameworks.
